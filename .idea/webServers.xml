@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cac798f4-ae2a-4eb6-8222-0add2620a5d9" name="47">
+        <fileTransfer rootFolder="/root/kuberbuild/sample/src/k8s.io/dbackupk8s" accessType="SFTP" host="172.16.30.47" port="22" sshConfigId="3cff2c47-0c92-46d1-a4f8-0e765767ae06" sshConfig="root@172.16.30.47:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
